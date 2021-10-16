@@ -1,0 +1,6 @@
+steps/POSTStep.class
+steps/TestInitialize.class
+steps/DELETEStep.class
+steps/GETStep.class
+steps/CucumberIntegrationIT.class
+steps/PUTStep.class
